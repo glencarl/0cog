@@ -1,5 +1,5 @@
-# rumble-cloud
+# 0cog
 
-Support an help documentation and examples to support a knowledge base for building Rumble Cloud Services
+A Professional Services and Produt development company.
 
-![alt rumblecloud](/images/rumblecloudgit.png "Rumble Cloud")
+![alt 0cogInc](/images/0cogTmgrey.png "0cog Inc")
