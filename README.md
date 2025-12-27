@@ -1,5 +1,5 @@
-# 0cog
+# rumble-cloud
 
-A Professional Services and Product development company.
+Support an help documentation and examples to support a knowledge base for building Rumble Cloud Services
 
-![alt 0cogInc](/images/0cogTmgrey.png "0cog Inc")
+![alt rumblecloud](/images/rumblecloudgit.png "Rumble Cloud")
